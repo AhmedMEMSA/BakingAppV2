@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuisson</string>
+    <string name="serving">serving :</string>
+    <string name="loading">Chargement</string>
+    <string name="try_again">Réessayer</string>
+    <string name="no_recipe_to_show">"Pas de recette à montrer "</string>
+    <string name="server_response_error">Erreur de réponse du serveur</string>
+    <string name="title_activity_recipe">Recette</string>
+    <string name="recipe_steps">"Étapes de la recette: "</string>
+    <string name="recipe_ingredients">"Ingrédients de recette "</string>
+    <string name="of">" de "</string>
+    <string name="next_or_previous">"Navigation à l'étape suivante ou précédente? "</string>
+    <string name="title_activity_step_details">"Détails de l'étape "</string>
+    <string name="appwidget_text">Widget de cuisson</string>
+</resources>
